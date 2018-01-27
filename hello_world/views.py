@@ -20,6 +20,7 @@ def index():
 def supported_output():
     return ", ".join(SUPPORTED)
 
+
 @app.route('/magda')
 def show_name():
     return "Magda"
