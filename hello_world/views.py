@@ -22,4 +22,4 @@ def supported_output():
 
 @app.route('/magda')
 def show_name():
-    return "Magda"
+    return "Magda Sroda"
