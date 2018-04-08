@@ -1,1 +1,3 @@
-{}
+{
+  "test/test_views.py::FlaskrTestCase::test_msg_with_output": true
+}
