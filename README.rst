@@ -43,8 +43,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
     .. image:: https://travis-ci.org/magdasroda/se_hello_printer_app.svg?branch=master
       :target: https://travis-ci.org/magdasroda/se_hello_printer_app
 
-.. image:: https://travis-ci.org/magdasroda/se_hello_printer_app.svg?branch=master
-  :target: https://travis-ci.org/magdasroda/se_hello_printer_app
+
   ::
 
     ...
@@ -86,3 +85,7 @@ Materiały
 =========
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
+
+
+.. image:: https://travis-ci.org/magdasroda/se_hello_printer_app.svg?branch=master
+  :target: https://travis-ci.org/magdasroda/se_hello_printer_app
