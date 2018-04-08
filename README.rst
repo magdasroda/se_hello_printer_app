@@ -92,4 +92,4 @@ Materiały
 
 
 .. image:: https://app.statuscake.com/button/index.php?Track=opOYG5SF5m&Days=1&Design=1
-  :target: https://www.statuscake.com" title="Website Uptime Monitoring
+   :target: https://www.statuscake.com
